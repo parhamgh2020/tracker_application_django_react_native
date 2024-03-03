@@ -1,1 +1,2 @@
 # tracker_application_django_react_native
+# tracker_application_django_react_native
